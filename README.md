@@ -12,6 +12,8 @@ Outside of code and Figma, you’ll find me painting, reading novels, or diving 
 
 - I prefer coffee over tea ☕
 - Naruto is my all-time favorite anime 🍥
+
+![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirtiThakur1&show_icons=true&theme=radical)
 <!--
 **KirtiThakur1/KirtiThakur1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
