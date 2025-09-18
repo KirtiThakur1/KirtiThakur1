@@ -15,7 +15,7 @@ Outside of code and Figma, you’ll find me painting, reading novels, or diving 
 
 ![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirtiThakur1&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiThakur1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KirtiThakur1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kirti-thakur01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtithakur.designer@gmail.com) -->
