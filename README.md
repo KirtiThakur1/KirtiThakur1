@@ -14,6 +14,7 @@ Outside of code and Figma, you’ll find me painting, reading novels, or diving 
 - Naruto is my all-time favorite anime 🍥
 
 ![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirtiThakur1&show_icons=true&theme=radical)
+![Kirti's GitHub stats](https://github-readme-stats.vercel.app/api?username=KirtiThakur1&show_icons=true&theme=radical)
 
 <!--## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kirti-thakur01/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirtithakur.designer@gmail.com) -->
